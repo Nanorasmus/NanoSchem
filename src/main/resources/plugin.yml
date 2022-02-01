@@ -1,0 +1,9 @@
+name: NanoSchem
+version: '${project.version}'
+main: me.nanorasmus.Main
+api-version: 1.18
+authors: [ Nanorasmus ]
+commands:
+  nanoschem:
+    description: Core command of NanoSchem
+    usage: /<command>
